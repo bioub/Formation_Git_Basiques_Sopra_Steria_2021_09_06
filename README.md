@@ -8,3 +8,9 @@ Bienvenue dans la formation git !
 * git config
 * git add
 * git commit
+
+## Github Flow
+
+* Créer une branche locale
+* Ajouter un ou plusieurs commits
+* Créer une Pull Request (GitHub) / Merge Request (GitLab)
